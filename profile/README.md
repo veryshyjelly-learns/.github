@@ -28,6 +28,12 @@ I learn by building the pieces: parsers, protocols, interpreters, and the tools 
 - [RISC-V emulator](https://github.com/veryshyjelly-learns/riscv_emulator).
 - [Thunder](https://github.com/veryshyjelly-learns/thunder) — implementing TCP in Rust.
 
+## Quantitative finance
+
+- [Regime-aware trading](https://github.com/veryshyjelly-learns/regime-aware-trading) — multi-task trading agents, market regimes, and ablation experiments.
+- [Pairs-trading filters](https://github.com/veryshyjelly-learns/pairs_trading_filter) — comparing pair selection and mean-reversion filters.
+- [SSD pairs trading](https://github.com/veryshyjelly-learns/ssd_pair_trading) — cointegration and stochastic-dominance experiments.
+
 ## Practice & experiments
 
 - [Exercism](https://github.com/veryshyjelly-learns/exercism-codes) — language practice.
