@@ -8,7 +8,7 @@ Course projects, systems implementations, and experiments by [Ayush Biswas (@ver
 
 I learn by building the pieces: parsers, protocols, interpreters, and the tools around them. This directory groups related projects and explains how the components fit together.
 
-[Courses](#courses) · [Systems & languages](#systems--languages) · [College work](#college-work) · [Messaging experiments](#messaging-experiments) · [Earlier developer tools](#earlier-developer-tools) · [Japanese learning](#japanese-learning) · [Practice & experiments](#practice--experiments)
+[Courses](#courses) · [Systems & languages](#systems--languages) · [Classical AI & logic](#classical-ai--logic) · [College work](#college-work) · [Messaging experiments](#messaging-experiments) · [Earlier developer tools](#earlier-developer-tools) · [Japanese learning](#japanese-learning) · [Practice & experiments](#practice--experiments)
 
 ## Courses
 
@@ -43,6 +43,22 @@ I learn by building the pieces: parsers, protocols, interpreters, and the tools 
 - [Lox interpreter](https://github.com/veryshyjelly-learns/lox-interpreter-rust) — following *Crafting Interpreters*.
 - [RISC-V emulator](https://github.com/veryshyjelly-learns/riscv_emulator).
 - [Thunder](https://github.com/veryshyjelly-learns/thunder) — implementing TCP in Rust.
+
+## Classical AI & logic
+
+Early learning projects in game search, logical representation, and inference. All four are archived and preserved with their original implementations.
+
+[Browse classical AI repositories →](https://github.com/search?q=org%3Averyshyjelly-learns+topic%3Aclassical-ai&type=repositories)
+
+### Adversarial search
+
+- [Tic-tac-toe in Go](https://github.com/veryshyjelly-learns/tic-tac-toe-go) — minimax search with a browser interface.
+- [Tic-tac-toe in Rust](https://github.com/veryshyjelly-learns/tic-tac-toe-rust) — a second implementation of the game using Rust and Rocket.
+
+### Logic & inference
+
+- [Propositional logic in Go](https://github.com/veryshyjelly-learns/propositional-logic-go) — logical sentences, knowledge bases, and model checking.
+- [Minesweeper AI in Python](https://github.com/veryshyjelly-learns/minesweeper-ai-python) — a knowledge-based player with a Pygame interface.
 
 ## College work
 
