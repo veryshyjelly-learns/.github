@@ -62,6 +62,7 @@ Coursework, labs, and research projects I built during college.
 - [Regime-aware trading](https://github.com/veryshyjelly-learns/regime-aware-trading) — multi-task trading agents, market regimes, and ablation experiments.
 - [Pairs-trading filters](https://github.com/veryshyjelly-learns/pairs-trading-filter) — comparing pair selection and mean-reversion filters.
 - [SSD pairs trading](https://github.com/veryshyjelly-learns/ssd-pair-trading) — cointegration and stochastic-dominance experiments.
+- [Group trading](https://github.com/veryshyjelly-learns/group-trading) — Rust research comparing cluster-based pair selection with a baseline trading strategy.
 
 ## Messaging experiments
 
@@ -133,6 +134,7 @@ Tools and resources from my Japanese study: kanji recall, JLPT vocabulary, and d
 
 - [My Unsplash](https://github.com/veryshyjelly-learns/my-unsplash) — a photo gallery practice project with uploads, labels, and deletion.
 - [Image Uploader](https://github.com/veryshyjelly-learns/image-uploader) — an image-uploading project whose original README credits DevChallenges.
+- [Upload frontend](https://github.com/veryshyjelly-learns/upload-frontend) — an unfinished Next.js/Mantine scaffold, preserved as a web-development prototype.
 
 These repositories document learning and experimentation; completion varies by project. Platform names identify the courses and challenges followed.
 
