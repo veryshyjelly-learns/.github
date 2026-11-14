@@ -8,7 +8,7 @@ Course projects, systems implementations, and experiments by [Ayush Biswas (@ver
 
 I learn by building the pieces: parsers, protocols, interpreters, and the tools around them. This directory groups related projects and explains how the components fit together.
 
-[Courses](#courses) · [Systems & languages](#systems--languages) · [Quantitative finance](#quantitative-finance) · [Messaging experiments](#messaging-experiments) · [Earlier developer tools](#earlier-developer-tools) · [Practice & experiments](#practice--experiments)
+[Courses](#courses) · [Systems & languages](#systems--languages) · [College work](#college-work) · [Messaging experiments](#messaging-experiments) · [Earlier developer tools](#earlier-developer-tools) · [Practice & experiments](#practice--experiments)
 
 ## Courses
 
@@ -44,13 +44,24 @@ I learn by building the pieces: parsers, protocols, interpreters, and the tools 
 - [RISC-V emulator](https://github.com/veryshyjelly-learns/riscv_emulator).
 - [Thunder](https://github.com/veryshyjelly-learns/thunder) — implementing TCP in Rust.
 
-## Quantitative finance
+## College work
 
-[Browse this group →](https://github.com/search?q=org%3Averyshyjelly-learns+topic%3Aquantitative-finance&type=repositories)
+Coursework, labs, and research projects I built during college.
+
+[Browse all college projects →](https://github.com/search?q=org%3Averyshyjelly-learns+topic%3Acollege-work&type=repositories)
+
+### Coursework & labs
+
+- [Optimization techniques lab](https://github.com/veryshyjelly-learns/ot-lab) — linear programming and simplex-method implementations in C++.
+- [Numerical methods lab](https://github.com/veryshyjelly-learns/numerical-methods-lab) — numerical methods and differential-equation exercises in Julia.
+- [Mathematical modelling](https://github.com/veryshyjelly-learns/math-modelling) — modelling exercises and numerical ODE solvers in Rust.
+- [Argon molecular dynamics](https://github.com/veryshyjelly-learns/argon-md) — a Fortran simulation of liquid argon, built as an HPC term project.
+
+### Quantitative finance
 
 - [Regime-aware trading](https://github.com/veryshyjelly-learns/regime-aware-trading) — multi-task trading agents, market regimes, and ablation experiments.
-- [Pairs-trading filters](https://github.com/veryshyjelly-learns/pairs_trading_filter) — comparing pair selection and mean-reversion filters.
-- [SSD pairs trading](https://github.com/veryshyjelly-learns/ssd_pair_trading) — cointegration and stochastic-dominance experiments.
+- [Pairs-trading filters](https://github.com/veryshyjelly-learns/pairs-trading-filter) — comparing pair selection and mean-reversion filters.
+- [SSD pairs trading](https://github.com/veryshyjelly-learns/ssd-pair-trading) — cointegration and stochastic-dominance experiments.
 
 ## Messaging experiments
 
