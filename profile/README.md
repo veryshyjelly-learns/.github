@@ -15,7 +15,7 @@ I learn by building the pieces: parsers, protocols, interpreters, and the tools 
 
 ## CodeCrafters
 
-- [Redis in Rust](https://github.com/veryshyjelly-learns/redis-rust).
+- Build your own Redis in [Rust](https://github.com/veryshyjelly-learns/redis-rust) and [Clojure](https://github.com/veryshyjelly-learns/redis-clojure).
 - Build your own shell in [Rust](https://github.com/veryshyjelly-learns/shell-rust), [Go](https://github.com/veryshyjelly-learns/shell-go), and [Gleam](https://github.com/veryshyjelly-learns/shell-gleam).
 
 ## Nand2Tetris
