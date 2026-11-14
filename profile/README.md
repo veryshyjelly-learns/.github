@@ -92,6 +92,12 @@ CF-Assist and CP-Assist are archived desktop implementations, preserved here as 
 - [Exercism](https://github.com/veryshyjelly-learns/exercism-codes) — language practice.
 - [VocabTrainer](https://github.com/veryshyjelly-learns/vocabtrainer-rs) — vocabulary practice in the terminal and on an e-reader.
 
+### roadmap.sh
+
+[Browse roadmap.sh projects →](https://github.com/search?q=org%3Averyshyjelly-learns+topic%3Aroadmap-sh&type=repositories)
+
+- [Task Tracker in Rust](https://github.com/veryshyjelly-learns/task-tracker-rust) — a terminal to-do app with local JSON storage, built for the roadmap.sh Task Tracker challenge.
+
 These repositories document learning and experimentation; completion varies by project. Platform names identify the courses and challenges followed.
 
 For Eitri, Bifrost, Vocabulary Studio, Dih Dah Dojo, and my other tools, visit [my personal profile](https://github.com/veryshyjelly).
