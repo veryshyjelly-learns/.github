@@ -39,6 +39,12 @@ I learn by building the pieces: parsers, protocols, interpreters, and the tools 
 - [Exercism](https://github.com/veryshyjelly-learns/exercism-codes) — language practice.
 - [VocabTrainer](https://github.com/veryshyjelly-learns/vocabtrainer-rs) — vocabulary practice in the terminal and on an e-reader.
 
+## Earlier projects
+
+My competitive programming tooling evolved through [CF-Assist](https://github.com/veryshyjelly-learns/CF-Assist) → [CP-Assist](https://github.com/veryshyjelly-learns/cp-assist) → **[Eitri](https://github.com/veryshyjelly/eitri)**.
+
+CF-Assist and CP-Assist are archived desktop implementations, preserved here as earlier iterations. Development continues in Eitri, the terminal companion on my personal account.
+
 These repositories document learning and experimentation; completion varies by project. Platform names identify the courses and challenges followed.
 
 For Eitri, Bifrost, Vocabulary Studio, Dih Dah Dojo, and my other tools, visit [my personal profile](https://github.com/veryshyjelly).
