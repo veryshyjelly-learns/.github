@@ -1,6 +1,8 @@
-<img src="https://raw.githubusercontent.com/veryshyjelly-learns/.github/main/assets/learning-jellyfish.png" align="right" width="128" height="128" alt="A mint jellyfish above an open book: Ayush’s learning shelf" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/veryshyjelly-learns/.github/main/assets/learning-jellyfish.png" width="128" height="128" alt="Jelly’s Workshop: a mint jellyfish above an open book" />
+</p>
 
-# Ayush's learning shelf
+<h1 align="center">Jelly’s Workshop</h1>
 
 Course projects, systems implementations, and experiments by [Ayush Biswas (@veryshyjelly)](https://github.com/veryshyjelly).
 
