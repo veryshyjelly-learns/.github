@@ -109,6 +109,13 @@ CF-Assist and CP-Assist are archived desktop implementations, preserved here as 
 
 - [Task Tracker in Rust](https://github.com/veryshyjelly-learns/task-tracker-rust) — a terminal to-do app with local JSON storage, built for the roadmap.sh Task Tracker challenge.
 
+### Web challenges
+
+[Browse web challenge projects →](https://github.com/search?q=org%3Averyshyjelly-learns+topic%3Aweb-challenges&type=repositories)
+
+- [My Unsplash](https://github.com/veryshyjelly-learns/my-unsplash) — a photo gallery practice project with uploads, labels, and deletion.
+- [Image Uploader](https://github.com/veryshyjelly-learns/image-uploader) — an image-uploading project whose original README credits DevChallenges.
+
 These repositories document learning and experimentation; completion varies by project. Platform names identify the courses and challenges followed.
 
 For Eitri, Bifrost, Vocabulary Studio, Dih Dah Dojo, and my other tools, visit [my personal profile](https://github.com/veryshyjelly).
