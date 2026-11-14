@@ -57,6 +57,10 @@ Coursework, labs, and research projects I built during college.
 - [Mathematical modelling](https://github.com/veryshyjelly-learns/math-modelling) — modelling exercises and numerical ODE solvers in Rust.
 - [Argon molecular dynamics](https://github.com/veryshyjelly-learns/argon-md) — a Fortran simulation of liquid argon, built as an HPC term project.
 
+### Campus applications
+
+- [Development Task](https://github.com/veryshyjelly-learns/development-task) — an IIT Kharagpur eateries website built for the Developers’ Society development task.
+
 ### Quantitative finance
 
 - [Regime-aware trading](https://github.com/veryshyjelly-learns/regime-aware-trading) — multi-task trading agents, market regimes, and ablation experiments.
