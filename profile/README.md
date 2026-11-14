@@ -8,7 +8,7 @@ Course projects, systems implementations, and experiments by [Ayush Biswas (@ver
 
 I learn by building the pieces: parsers, protocols, interpreters, and the tools around them. This directory groups related projects and explains how the components fit together.
 
-[Courses](#courses) · [Systems & languages](#systems--languages) · [College work](#college-work) · [Messaging experiments](#messaging-experiments) · [Earlier developer tools](#earlier-developer-tools) · [Practice & experiments](#practice--experiments)
+[Courses](#courses) · [Systems & languages](#systems--languages) · [College work](#college-work) · [Messaging experiments](#messaging-experiments) · [Earlier developer tools](#earlier-developer-tools) · [Japanese learning](#japanese-learning) · [Practice & experiments](#practice--experiments)
 
 ## Courses
 
@@ -95,6 +95,24 @@ These two wrappers were built to work together in an earlier WhatsApp–Telegram
 My competitive programming tooling evolved through [CF-Assist](https://github.com/veryshyjelly-learns/CF-Assist) → [CP-Assist](https://github.com/veryshyjelly-learns/cp-assist) → **[Eitri](https://github.com/veryshyjelly/eitri)**.
 
 CF-Assist and CP-Assist are archived desktop implementations, preserved here as earlier iterations. Development continues in Eitri, the terminal companion on my personal account.
+
+## Japanese learning
+
+Tools and resources from my Japanese study: kanji recall, JLPT vocabulary, and different ways to practice.
+
+[Browse Japanese-learning repositories →](https://github.com/search?q=org%3Averyshyjelly-learns+topic%3Ajapanese-learning&type=repositories)
+
+### Kanji & vocabulary practice
+
+- [Kanji Shitsumon](https://github.com/veryshyjelly-learns/kanji-shitsumon) — a Rust/Dioxus kanji recall app using CSV decks.
+- [Kanji Slideshow](https://github.com/veryshyjelly-learns/kanji-slideshow) — kanji revision organized by JLPT level.
+- [Vocab Slideshow](https://github.com/veryshyjelly-learns/vocab-slideshow) — Japanese vocabulary slideshows organized by JLPT level.
+- [JLPT Inquire](https://github.com/veryshyjelly-learns/jlpt-inquire) — terminal vocabulary practice, quizzes, and search in Rust.
+
+### Study tools & resources
+
+- [Auto Duolingo](https://github.com/veryshyjelly-learns/auto-duolingo) — a second-device interface for completing Duolingo lessons, with a Go backend and React frontend.
+- [Awesome Japanese](https://github.com/veryshyjelly-learns/awesome-japanese) — my fork of the curated Japanese-learning resource list; credits remain with the upstream contributors.
 
 ## Practice & experiments
 
