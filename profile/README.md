@@ -60,6 +60,7 @@ Coursework, labs, and research projects I built during college.
 ### Campus applications
 
 - [Development Task](https://github.com/veryshyjelly-learns/development-task) — an IIT Kharagpur eateries website built for the Developers’ Society development task.
+- [Room Booking System](https://github.com/veryshyjelly-learns/room-booking-system) — an RK Hall room-allocation backend with student and administrator roles.
 
 ### Quantitative finance
 
