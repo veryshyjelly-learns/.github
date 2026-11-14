@@ -20,7 +20,7 @@ I learn by building the pieces: parsers, protocols, interpreters, and the tools 
 - [Asteroids](https://github.com/veryshyjelly-learns/asteroids-pygame) — an arcade game with Python and Pygame.
 - [AI agent](https://github.com/veryshyjelly-learns/ai-agent-boots) — the Python agent project.
 - [Web scraper](https://github.com/veryshyjelly-learns/webscraper-python-boots) — crawling and reporting in Python.
-- [HTTP from TCP](https://github.com/veryshyjelly-learns/httpfromtcp) — HTTP/1.1 from raw TCP in Go.
+- [HTTP from TCP](https://github.com/veryshyjelly-learns/http-from-tcp) — HTTP/1.1 from raw TCP in Go.
 - [Megacorp](https://github.com/veryshyjelly-learns/megacorp) — Git course exercises.
 
 ### CodeCrafters
@@ -34,14 +34,14 @@ I learn by building the pieces: parsers, protocols, interpreters, and the tools 
 
 [Browse this group →](https://github.com/search?q=org%3Averyshyjelly-learns+topic%3Anand2tetris&type=repositories)
 
-[Hack assembler](https://github.com/veryshyjelly-learns/hack_assembler) → [VM translator](https://github.com/veryshyjelly-learns/vm_translator) → [Jack compiler](https://github.com/veryshyjelly-learns/jack_compiler).
+[Hack assembler](https://github.com/veryshyjelly-learns/hack-assembler) → [VM translator](https://github.com/veryshyjelly-learns/vm-translator) → [Jack compiler](https://github.com/veryshyjelly-learns/jack-compiler).
 
 ## Systems & languages
 
 [Browse this group →](https://github.com/search?q=org%3Averyshyjelly-learns+topic%3Asystems&type=repositories)
 
 - [Lox interpreter](https://github.com/veryshyjelly-learns/lox-interpreter-rust) — following *Crafting Interpreters*.
-- [RISC-V emulator](https://github.com/veryshyjelly-learns/riscv_emulator).
+- [RISC-V emulator](https://github.com/veryshyjelly-learns/riscv-emulator).
 - [Thunder](https://github.com/veryshyjelly-learns/thunder) — implementing TCP in Rust.
 
 ## College work
@@ -89,8 +89,8 @@ Setu is a separate architectural experiment from [Bifrost](https://github.com/ve
 
 [Browse this group →](https://github.com/search?q=org%3Averyshyjelly-learns+topic%3Abridge-prototypes&type=repositories)
 
-- [go_whatsapp_api](https://github.com/veryshyjelly-learns/go_whatsapp_api) — an archived whatsmeow wrapper.
-- [go_telegram_api](https://github.com/veryshyjelly-learns/go_telegram_api) — an archived Telegram Bot API wrapper.
+- [go-whatsapp-api](https://github.com/veryshyjelly-learns/go-whatsapp-api) — an archived whatsmeow wrapper.
+- [go-telegram-api](https://github.com/veryshyjelly-learns/go-telegram-api) — an archived Telegram Bot API wrapper.
 
 These two wrappers were built to work together in an earlier WhatsApp–Telegram bridging experiment.
 
@@ -98,7 +98,7 @@ These two wrappers were built to work together in an earlier WhatsApp–Telegram
 
 [Browse this group →](https://github.com/search?q=org%3Averyshyjelly-learns+topic%3Aearlier-developer-tools&type=repositories)
 
-My competitive programming tooling evolved through [CF-Assist](https://github.com/veryshyjelly-learns/CF-Assist) → [CP-Assist](https://github.com/veryshyjelly-learns/cp-assist) → **[Eitri](https://github.com/veryshyjelly/eitri)**.
+My competitive programming tooling evolved through [cf-assist](https://github.com/veryshyjelly-learns/cf-assist) → [CP-Assist](https://github.com/veryshyjelly-learns/cp-assist) → **[Eitri](https://github.com/veryshyjelly/eitri)**.
 
 CF-Assist and CP-Assist are archived desktop implementations, preserved here as earlier iterations. Development continues in Eitri, the terminal companion on my personal account.
 
