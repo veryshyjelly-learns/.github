@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/veryshyjelly-learns/.github/main/assets/learning-jellyfish.png" align="right" width="128" height="128" alt="A mint jellyfish above an open book: Ayush’s learning shelf" />
+
 # Ayush's learning shelf
 
 Course projects, systems implementations, and experiments by [Ayush Biswas (@veryshyjelly)](https://github.com/veryshyjelly).
